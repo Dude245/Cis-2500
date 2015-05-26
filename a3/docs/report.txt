@@ -1,0 +1,9 @@
+Max:102
+Min:00:00:05
+Avg:00:00:40
+Ceryl2:00:00:44
+Daniel:00:00:05
+Chance:00:00:07
+Kayla2:00:01:42
+Kristy:00:01:7
+Robert:00:00:18

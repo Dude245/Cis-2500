@@ -1,0 +1,19 @@
+I used http://www.tldp.org/LDP/lpg/node100.html to look up ncurses calls. 
+Mostly my vlines and a different way to output
+
+I talked to Cole H, Alex E, Drew D, and Kyle R about the different ways to draw the board and move the cursor
+I talked to Cole, Alex, and Drew about the different ways to play the game and declare winners.
+
+*******************
+To use the program, run the make file,
+from there, run 'runMe' in the bin folder
+
+*******************
+
+To play the game use the arrow keys
+to place a X or an O press space
+
+When someone wins, there will be a prompt to play again
+Press Y or y to play again, press N or n to quit the game
+
+*******************

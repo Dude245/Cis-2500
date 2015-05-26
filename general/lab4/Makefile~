@@ -1,0 +1,2 @@
+all:
+	gcc lab4.c -Wall -ANSI -Iinclude

@@ -1,0 +1,12 @@
+Compile this with 'make'.
+Run it by running this command:
+./bin/runMe fileNameOne.txt fileNameTwo.txt
+The test file can be run with:
+./bin/testMe
+
+#####Known Errors######
+Cannot free memory when removing from front of list
+DestroyList function will leave one element at head
+Cannot add patrons who bought a snack into the list properly
+#####Known Errors######
+

@@ -1,0 +1,7 @@
+all: compile 
+
+compile:
+	gcc -Wall -pedantic src/tictactoe.c src/tictactoefunctions.c -o bin/ttt -Iinclude -lncurses
+
+clean: compile
+	rm *.o

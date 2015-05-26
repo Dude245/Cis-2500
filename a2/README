@@ -1,0 +1,22 @@
+Compile this game with 'make'.
+Replace the 'room.txt' file in the root directory (there is my test on there)
+
+To run the program, run this command: 'bin/runMe room.txt'
+
+To navigate the game board use the hjkl keys,
+h is left, j is down, k is up, l is right, 
+the game uses the character set from rogue,
+your movable character is the '@' symbol.
+
+To move to the next room without hitting a door, hit 'n'
+once it gets to the 9th room(or if you hit 'q'), the program will exit
+
+
+#####
+Known Bugs
+#####
+
+If the room is longer than the terminal window, the bottom boarder
+will be displayed beside the top boarder.
+
+Sometimes the cursor will not display... run the game again to fix it
